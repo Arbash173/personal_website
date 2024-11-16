@@ -49,7 +49,7 @@ export const gridItems = [
 
     {
         id: 5,
-        title: "Currently working on a Defi protocol",
+        title: "Building modern web solutions with latest stacks.",
         description: "The Inside Scoop",
         className: "md:col-span-3 md:row-span-2",
         imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -173,25 +173,33 @@ export const companies = [
 export const workExperience = [
     {
         id: 1,
-        title: "Blockchain Developer",
-        desc: "Build full-stack blockchain applications, from smart contracts to front-end interfaces using Solidity & React.js",
+        title: "Full-Stack Web Developer",
+        desc: "Developed scalable web applications using the MERN and MEAN stacks, ensuring seamless integration of front-end and back-end functionalities.",
         className: "md:col-span-2",
         thumbnail: "/exp1.svg",
     },
     {
         id: 2,
-        title: "Blockchain Intern",
-        desc: "Assisted in developing tokenomics for a new cryptocurrency project.",
-        className: "md:col-span-2", // change to md:col-span-2
+        title: "Front-End Developer",
+        desc: "Created dynamic user interfaces with React.js and Angular, enhancing user engagement and optimizing performance.",
+        className: "md:col-span-2",
         thumbnail: "/exp2.svg",
+    },
+    {
+        id: 3,
+        title: "WordPress Developer",
+        desc: "Built and customized WordPress websites with a focus on responsive design and plugin development.",
+        className: "md:col-span-2",
+        thumbnail: "/exp3.svg",
     }
 ];
+
 
 export const socialMedia = [
     {
         id: 1,
         img: "/git.svg",
-        link: "https://github.com/nirban256"
+        link: "https://github.com/Arbash173"
     },
     {
         id: 2,
@@ -201,6 +209,6 @@ export const socialMedia = [
     {
         id: 3,
         img: "/link.svg",
-        link: "https://www.linkedin.com/in/nirban-chakraborty/"
+        link: "https://www.linkedin.com/in/arbashse/"
     },
 ];
