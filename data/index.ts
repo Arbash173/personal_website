@@ -72,19 +72,19 @@ export const gridItems = [
 export const projects = [
     {
         id: 1,
-        title: "Car Slayer",
-        des: "A blockchain-based NFT game where players can buy, sell, and trade car NFTs using cryptocurrency.",
-        img: "/nft-game.png",
+        title: "Market Place App",
+        des: "A fully responsive ecommerce website built with modern web technologies, offering seamless navigation and secure transactions for an optimal shopping experience.",
+        img: "/arbashexp3.png",
         iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-        link: "https://car-slayer.vercel.app/",
+        link: "https://markeplacesapp.netlify.app/",
     },
     {
         id: 2,
-        title: "NFT minting Dapp",
-        des: "A decentralized application that allows users to mint NFTs using the Avalanche blockchain.",
-        img: "/nft.png",
+        title: "Shoe Store Design",
+        des: "A sleek and user-friendly shoe store design crafted with Tailwind CSS, providing a visually appealing and fast-loading interface for a smooth browsing experience.",
+        img: "/arbashexp1.png",
         iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-        link: "https://nft-minting-kappa.vercel.app/",
+        link: "https://arbash-shoe.netlify.app/",
     },
     {
         id: 3,
